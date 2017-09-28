@@ -1,2 +1,2 @@
-# cruze-planners
+# cruze planners
 Event Planners website
